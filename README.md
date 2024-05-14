@@ -63,7 +63,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Developer-Shahin1/Developer-Shahin1/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
